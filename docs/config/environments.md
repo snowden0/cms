@@ -26,7 +26,7 @@ To set these settings to an environment variable, type `$` followed by the envir
 
 ![A volume’s Base URL setting](../images/volume-base-url-setting.jpg)
 
-Only the environment variable’s name will be stored in your database or project config, so this is a great way to set setting values that may change per-environment, or contain sensitive information.
+Only the environment variable’s name will be stored in your database or project config, so this is a great way to set values that may change per-environment, or contain sensitive information.
 
 ::: tip
 Plugins can add support for environment variables and aliases in their settings as well. See [Environmental Settings](../extend/environmental-settings.md) to learn how.
